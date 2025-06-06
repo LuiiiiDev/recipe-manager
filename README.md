@@ -12,9 +12,6 @@ Una aplicación simple para gestionar tus recetas favoritas.
 
 ## 🚀 Instalación
 
-```bash
-# Clonar el repositorio
-git clone tu-repositorio-url
 
 # Instalar dependencias
 npm install
