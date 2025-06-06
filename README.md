@@ -49,3 +49,8 @@ Campos disponibles:
 - `ingredientes`: Lista de ingredientes
 - `instrucciones`: Pasos de preparación
 - `tiempoPreparacion`: Tiempo en minutos
+
+
+## Video del funcionamiento 
+
+https://drive.google.com/file/d/1atsdM5x0TdmpeQQ3tHDn44McwVfvKTV8/view?usp=drivesdk
